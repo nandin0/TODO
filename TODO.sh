@@ -10,8 +10,7 @@
 #Actualización: Creación de menú de script.
 #Actualización: Comprobación de errores y mensajes de estado para los usuarios.
 #Posteriormente se ejecuta como cualquier bash: ./TODO.sh
-#Uso sin descarga: "wget -O - https://raw.githubusercontent.com/nandin0/ScriptsBash/master/TODO.sh?token=GHSAT0AAAAAABRRKWTWJNZZ5BQJ6LXLBZXGYQJRVAQ | bash"
-####################################################################
+
 
 DIALOG_CANCEL=1
 DIALOG_ESC=255
